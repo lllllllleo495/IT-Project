@@ -8,7 +8,7 @@
 4. Размещение исходного кода страницы
 5. Размещение странички на хостинге
 
-[Ссылка на личный репозиторий](https://github.com/zhelnovandrew/Laboratory_work-Zhelnov)
+[Ссылка на личный репозиторий](https://github.com/DrjakinaViktorija/Internet-tehnology)
 
 [Ссылка на личную страницу](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/)
 ## ✅Лабораторная работа №2
