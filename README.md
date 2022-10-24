@@ -1,4 +1,4 @@
-# Drjakina Viktirija IDM-22-03
+# Sharipkov Leonid IDM-22-07
 
 ## ✅Лабораторная работа №1
 Экосистема разработки программ с открытым кодом (github):
@@ -8,9 +8,9 @@
 4. Размещение исходного кода страницы
 5. Размещение странички на хостинге
 
-[Ссылка на личный репозиторий](https://github.com/DrjakinaViktorija/Internet-tehnology)
+[Ссылка на личный репозиторий](https://github.com/lllllllleo495/IT-Project)
 
-[Ссылка на личную страницу](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/)
+[Ссылка на личную страницу](add link)
 ## ✅Лабораторная работа №2
 Разработка простого веб-приложения:
 
@@ -25,4 +25,4 @@
 ## ✅Экзаменационный билет №08
 Ответы на выбранный билет:
 
-[Билет №08](https://github.com/stankin/inet-2022/wiki/exam08#билет-8)
+[Билет №07](https://github.com/stankin/inet-2022/wiki/exam07)
